@@ -41,9 +41,5 @@ Open [http://localhost:3000](http://localhost:3000/) to view it in the browser.
 
 App will be now available to User.
 
-
-
-{% hint style="info" %}
-Docker and rest of Production configuration will be done later time.
-{% endhint %}
+> Docker and rest of Production configuration will be done later time.
 
