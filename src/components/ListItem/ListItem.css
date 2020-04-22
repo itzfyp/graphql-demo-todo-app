@@ -1,0 +1,6 @@
+.btn-wrapper {
+    justify-content: flex-end;
+}
+.delete {
+    color: red;
+}

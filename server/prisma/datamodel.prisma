@@ -1,0 +1,8 @@
+type Todo {
+  id: ID! @id
+  content: String!
+  isCompleted: Boolean!
+  createdAt: DateTime! @createdAt
+}
+
+
