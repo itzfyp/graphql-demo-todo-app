@@ -32,14 +32,16 @@ https://www.howtographql.com/graphql-js/4-adding-a-database/
 
 once completed all setup for application. Start the application
 
+## Run Application
+
   
  Run `npm start` at server folder to start  Grapql server
 
-Run `npm start` at root of the application to run cline t
+Run `npm start` at root of the application to run clinet
 
 Open [http://localhost:3000](http://localhost:3000/) to view it in the browser.
 
 App will be now available to User.
 
-> Docker and rest of Production configuration will be done later time.
+> Docker and other configuration will be done later time.
 
